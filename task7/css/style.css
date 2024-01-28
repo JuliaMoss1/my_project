@@ -3,10 +3,16 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-color: #47792d;
+}
+
+form{
+    background-color: #b5efb2;
+    padding: 40px;
 }
 
 textarea#text1 {
-    height: 150px;
+    height: 170px;
     width: 100%;
     resize: none;
 }
