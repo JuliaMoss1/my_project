@@ -3,6 +3,12 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-color: #47792d;
+}
+
+form{
+    background-color: #b5efb2;
+    padding: 40px;
 }
 
 textarea#text1 {
